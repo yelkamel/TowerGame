@@ -1,0 +1,10 @@
+echo "Initialisation du makefile.rules"
+echo "Creation du makefile.rules"
+echo "TAR=el-kam_y-jeuvideo.tar.bz2" > makefile.rules
+echo "FILE= src/game.c src/ges_map.c src/tower.c src/ennemy.c src/mouvement_ennemy.c"  >> makefile.rules
+echo "FILE2= src/map.c src/ennemy.c src/ges_map.c src/mouvement_ennemy.c" >> makefile.rules
+echo "EXE=game" >> makefile.rules
+echo "EXE2=map" >> makefile.rules
+echo "SDLFLAGS=\`sdl-config --cflags --libs\` -lSDL" >> makefile.rules
+echo "FLAGS=-g -ggdb3 -Wall -Wextra -Werror -pedantic -std=c99" >> makefile.rules
+echo "makefile.rules bien cree."

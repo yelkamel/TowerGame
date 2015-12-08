@@ -1,0 +1,27 @@
+---------- README ----------
+
+In this Rush Project, We need to create a little game based on TD's.
+It's a game where monsters are coming by a side and try to go out by another one
+
+For everyone who don't know this game, just refere you to : man Warcraft (3).
+(and there are a lot of on internet, coded like we are trying to code it)
+
+You have to know that this projet has been done in 36 hours, without sleeping.
+So, let's be indulgent on your appreciation.
+
+We tried to do the best, we a lot of ideas, but it was really hard to implemente
+
+
+So, to compile your executable you have to:
+
+These are the steps to do in your bash:
+./configure : It's going to compile your makefile.rules for the Makefile
+make && make clean : create your executable and delete them respectively
+make dist : creating a tarball to export your game and functions
+
+To execute your executables, just do: ./<name>
+
+To create the latex and pdf of everything on the project:
+make doc
+
+Have fun, and try to continue it if you want to.
