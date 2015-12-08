@@ -1,6 +1,4 @@
----------- README ----------
-
-In this Rush Project, We need to create a little game based on TD's.
+It's a little game based on TD's.
 It's a game where monsters are coming by a side and try to go out by another one
 
 For everyone who don't know this game, just refere you to : man Warcraft (3).
@@ -9,9 +7,7 @@ For everyone who don't know this game, just refere you to : man Warcraft (3).
 You have to know that this projet has been done in 36 hours, without sleeping.
 So, let's be indulgent on your appreciation.
 
-We tried to do the best, we a lot of ideas, but it was really hard to implemente
-
-
+I tried to do the best, a lot of ideas, but it was really hard to implemente
 So, to compile your executable you have to:
 
 These are the steps to do in your bash:
